@@ -1,7 +1,6 @@
-=============================
     MutiThread IP Scanner
 =============================
-CopyRight@LESLIE_lV
+CopyRight@LESLIE_LV
 
 采用Batch File实现；
 对输入的IP RANGE采用遍历的方式进行多线程ping test并提取结果；
